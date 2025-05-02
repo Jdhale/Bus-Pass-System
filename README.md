@@ -22,8 +22,8 @@ Follow these steps to set up the project on your local machine:
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/Cloud-Bus-Pass-System.git
-cd Cloud-Bus-Pass-System
+git clone https://github.com/yourusername/Bus-Pass-System.git
+cd Bus-Pass-System
 ```
 
 ### **2. Create a Virtual Environment & Activate It**
