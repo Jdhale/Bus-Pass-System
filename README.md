@@ -67,8 +67,6 @@ Contributions are always welcome! Follow these steps to contribute:
    ```
 5. **Create a pull request (PR).**
 
-## **License**
-This project is licensed under the **MIT License**.
 
 ## **Contact**
 For any questions or suggestions, feel free to contact at **janhvidhale4@gmail.com**.
